@@ -5,6 +5,7 @@ This repository holds the bridge.py file required for my PipVideoController Holo
 To use the PipVideoController holotape, you need to have a few things on your computer. 
 
 First, go download python 3.14.5 as this was the version of python the bridge.py file was written in.
+Python Download link: https://www.python.org/downloads/release/python-3145/
 Next, download the bridge.py file directly from this repository.
 
 After those steps, you now need to set up the bridge to match your computer. Its different for everybody so please pay close attention otherwise it will not work for you. 
