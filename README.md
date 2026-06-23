@@ -48,7 +48,7 @@ Also, one last thing. When adding a song to your holotape, BE SURE YOU FIND EVER
 If you dont, then the video wont play and the command prompt will throw an error. Pasted below is the layout to use for adding more videos
 
 
-use this one if your add a new one to the list
+use this one if you add a new one to the list
 
 { name: "YOURVIDEONAME", path: "YOURVIDEOPATH"},
 
